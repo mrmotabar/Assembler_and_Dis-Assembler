@@ -1,4 +1,4 @@
-# Assembler and Disassembler
+# Assembler and Dis-Assembler
 
 This project implements an assembler and disassembler for NASM x86, supporting 8, 16, 32, and 64-bit commands with various addressing modes for 64-bit architecture. The implementation is provided in both Assembly and Python languages. For the Assembly implementation, I first implemented basic features like copying and simulating the dictionary of Python by Assembly, and then I continued according to my Python implementation.
 
